@@ -31,17 +31,12 @@ Para iniciar el backend, sigue estos pasos:
    npm install
    ```
 
-3. Crea el archivo de configuración `.env` con las siguientes variables (si no existe):
-   ```bash
-   DB_FILE_PATH=./db/tareas.db
-   ```
-
-4. Levanta el servidor de desarrollo:
+3. Levanta el servidor de desarrollo:
    ```bash
    npm start
    ```
 
-   El backend estará disponible en `http://localhost:5000`.
+   El backend estará disponible en `http://localhost:3002`.
 
 ### 2. Frontend (React)
 Para iniciar el frontend, sigue estos pasos:
