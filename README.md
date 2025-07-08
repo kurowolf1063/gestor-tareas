@@ -52,7 +52,7 @@ Para iniciar el frontend, sigue estos pasos:
    npm install
    ```
 
-3. Asegúrate de que el backend esté en funcionamiento y el frontend esté configurado para comunicarse con la API REST. Si tu backend está corriendo en `http://localhost:5000`, no necesitarás hacer cambios, ya que el frontend utiliza un proxy por defecto.
+3. Asegúrate de que el backend esté en funcionamiento y el frontend esté configurado para comunicarse con la API REST. Si tu backend está corriendo en `http://localhost:3002`, no necesitarás hacer cambios, ya que el frontend utiliza un proxy por defecto.
 
 4. Levanta el servidor de desarrollo:
    ```bash
